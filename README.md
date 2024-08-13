@@ -3,7 +3,7 @@
 Python tools created and used as Wikipedian in Residence for Projekt Fredrika ([projektfredrika.fi](https://projektfredrika.fi/)). I have edited over 10000 articles in Swedish Wikipedia and over 50000 Wikidata objects. These scripts were created effectively thanks to the _help_ of Generative AI. 
 
 ### In this repo
-* stats\_wikipedia\_multi_lang.py - used to compile statistics for Wikipedia article views over multiple languages, taking as input a Wikidata Q-code and fetching data from Wikipedia APIs
+* [stats\_wikipedia\_multi_lang.py](https://github.com/robertsilen/roberts-wiki-tools/blob/main/stats_wikipedia_multi_lang.py) - used to compile statistics for Wikipedia article views over multiple languages, taking as input a Wikidata Q-code and fetching data from Wikipedia APIs
 
 ### In [projekt-fredrika](https://github.com/projekt-fredrika)'s repo
 
